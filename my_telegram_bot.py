@@ -9,7 +9,6 @@ import os
 
 # loading env variables
 load_dotenv()
-print(os.environ["TOKEN"])
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -182,7 +181,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 def main() -> None:
     """Run the bot."""
-    application = Application.builder().token("YOUR TOKEN HERE").build()
+    application = Application.builder().token(os.environ["TOKEN"]).build()
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler('start', start)],
