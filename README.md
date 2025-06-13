@@ -25,7 +25,7 @@ Basée sur l’article de Moraneus : [Building Telegram Bot with Python](https:/
 1. Ouvrir Telegram et rechercher **BotFather**
 2. Envoyer la commande `/newbot`
 3. Choisir un nom et un @username pour votre bot
-![bot father chat]('C:\Users\7MAKSACOD PC\PycharmProjects\python_telegram_bot\Capture d'écran 2025-06-13 181608.png')
+![bot father chat](Capture_ecran_2025-06-13_181608.png)
 4. **Copier le token** donné par BotFather 
 5. Créer un fichier .env et inserer la paire clé-valeur:
 ```
