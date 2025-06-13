@@ -579,9 +579,11 @@ if __name__ == '__main__':
 Après avoir exécuté votre script, recherchez votre bot sur Telegram et commencez à interagir avec lui. Vous devriez maintenant pouvoir utiliser la commande ```/start``` pour démarrer une conversation, qui vous guidera tout au long de la mise en vente d'une voiture.
 
 | | | |
-|:---:|:---:|:---:|:---:|
-| ![Image 1](images/image1.webp) | ![Image 2](images/image2.webp) | ![Image 3](images/image3.webp) | ![Image 4](images/image4.webp) |
-| ![Image 5](images/image5.webp) | ![Image 6](images/image6.webp) | ![Image 7](images/image7.webp) | ![Image 8](images/image8.webp) |
+|:---:|:---:|
+| ![Image 1](images/image1.webp) | ![Image 2](images/image2.webp) |
+| ![Image 3](images/image3.webp) | ![Image 4](images/image4.webp) |
+| ![Image 5](images/image5.webp) | ![Image 6](images/image6.webp) |
+| ![Image 7](images/image7.webp) | ![Image 8](images/image8.webp) |
 
 # Conclusion:
 
