@@ -29,7 +29,7 @@ Basée sur l’article de Moraneus : [Building Telegram Bot with Python](https:/
 4. **Copier le token** donné par BotFather 
 5. Créer un fichier .env et inserer la paire clé-valeur:
 ```
-TOKEN="7687267672:AAGHEtsFh4H8WAqCfPgL67_V48UVZugZ7eg"
+TOKEN="your token here"
 ```
 
 ---
