@@ -15,7 +15,7 @@ Basée sur l’article de Moraneus : [Building Telegram Bot with Python](https:/
 
 - **Installer les dépendances**  
   ```bash
-  pip install python-telegram-bot
+  pip install -r requirements.txt
   ```
 
 ---
